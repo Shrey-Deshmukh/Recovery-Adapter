@@ -71,15 +71,11 @@ The following diagram illustrates the automated disaster recovery workflow imple
 
 ---
 
-# Demo Video
+## Demo Video
 
-A demonstration of the CLI tool performing disaster recovery operations can be found in the repository:
+Click the thumbnail below to download and watch the CLI demonstration.
 
-📹 **Demo Video**
-
-video_demonstration/voiceless_video_demonstration.wmv
-
-Download the video to view the CLI workflow demonstration.
+[![Recovery Adapter Demo](video_thumbnail.jpg)](video_demonstration/voiceless_video_demonstration.wmv)
 
 ---
 
