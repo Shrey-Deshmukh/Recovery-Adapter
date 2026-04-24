@@ -91,3 +91,43 @@ Click the thumbnail below to download and watch the CLI demonstration.
 The CLI tool interacts with enterprise storage arrays using REST APIs.
 
 Workflow:
+User CLI Input
+→ CLI Command Handler
+→ REST API Calls
+→ Storage Array Operations
+→ Status Monitoring
+
+The tool validates system state before executing operations to ensure **safe and reliable recovery execution**.
+
+---
+
+## Tech Stack
+
+### Language
+
+- Go (Golang)
+
+### Technologies
+
+- REST APIs
+- JSON
+- CLI Application Design
+
+### Tools
+
+- Postman (API testing)
+- MTPuTTY
+- Visual Studio Code
+
+---
+
+## Achievement
+
+🏆 **Top 5 Project – Storage Creative Days 2023**  
+Hewlett Packard Enterprise
+
+---
+
+## Author
+
+**Shrey Deshmukh**
