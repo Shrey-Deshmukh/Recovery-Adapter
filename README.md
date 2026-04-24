@@ -17,6 +17,9 @@ The tool simplifies complex failover operations between replicated storage array
 
 # Motivation
 
+Companies keep copies of their data in different locations (primary site/secondary site) so that they can recover that data via disaster recovery if something breaks. Sometimes after a system failover, the storage state can end up in an inconsistent state. Fixing this normally requires you to run multiple commands in a very specific sequence and you can make things worse if you get that sequence wrong.
+I built a tool that understands the different states the storage system can be in and automatically perform the correct recovery steps. 
+
 In enterprise storage environments, disaster recovery operations such as **failover, recovery, reprotect, and failback** typically require executing several CLI commands in a specific sequence.
 
 This can lead to:
