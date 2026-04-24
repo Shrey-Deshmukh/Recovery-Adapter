@@ -10,6 +10,14 @@ The tool simplifies complex failover operations between replicated storage array
 
 ---
 
+## Demo Video
+
+Watch the CLI demonstration here:
+
+▶️ [Recovery Adapter Demo Video](https://drive.google.com/file/d/1t5wWO1YMTTeHRi64DE6xV4OUvaG3yYGY/view?usp=drive_link)
+
+---
+
 ## Motivation
 
 Enterprise systems typically maintain **replicated copies of data across multiple locations** (primary and secondary sites) to ensure recovery during infrastructure failures.
@@ -69,15 +77,6 @@ Restore the system to its original configuration once the primary site is availa
 The following diagram illustrates the automated disaster recovery workflow implemented by the CLI tool.
 
 ![Disaster Recovery Workflow](workflow_pic2.JPG)
-
----
-
-## Demo Video
-
-Watch the CLI demonstration here:
-
-▶️ [Recovery Adapter Demo Video](https://drive.google.com/file/d/1t5wWO1YMTTeHRi64DE6xV4OUvaG3yYGY/view?usp=drive_link)
-
 
 ---
 
