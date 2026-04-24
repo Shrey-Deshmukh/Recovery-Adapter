@@ -94,7 +94,7 @@ User CLI Input
 
 The tool validates system state before executing operations to ensure **safe and reliable recovery execution**.
 
-[![Recovery Adapter Demo](video_thumbnail.jpg)]
+![Recovery Adapter Demo](video_thumbnail.jpg)
 
 ---
 
