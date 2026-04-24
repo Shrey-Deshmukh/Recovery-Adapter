@@ -74,8 +74,6 @@ The following diagram illustrates the automated disaster recovery workflow imple
 
 ## Demo Video
 
-## Demo Video
-
 Watch the CLI demonstration here:
 
 ▶️ [Recovery Adapter Demo Video](https://drive.google.com/file/d/1t5wWO1YMTTeHRi64DE6xV4OUvaG3yYGY/view?usp=drive_link)
