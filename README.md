@@ -1,11 +1,5 @@
 # Recovery Adapter – Storage Disaster Recovery CLI
 
-⚠️ **Note:** This project was developed as part of the **HPE Storage Creative Days Hackathon 2023**.  
-Due to company ownership policies, the source code cannot be publicly shared.  
-This repository contains **documentation, architecture explanations, and a demonstration of the working prototype**.
-
----
-
 ## Overview
 
 Recovery Adapter is a **Golang-based command line interface (CLI) tool designed to automate disaster recovery workflows for enterprise storage systems**.
@@ -125,6 +119,12 @@ The tool validates system state before executing operations to ensure **safe and
 
 🏆 **Top 5 Project – Storage Creative Days 2023**  
 Hewlett Packard Enterprise
+
+---
+
+**Note:** This project was developed as part of the **HPE Storage Creative Days Hackathon 2023**.  
+Due to company ownership policies, the source code cannot be publicly shared.  
+This repository contains **documentation, architecture explanations, and a demonstration of the working prototype**.
 
 ---
 
