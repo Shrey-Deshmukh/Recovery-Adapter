@@ -2,7 +2,7 @@
 
 ## Overview
 
-Recovery Adapter is a **Golang-based command line interface (CLI) tool designed to automate disaster recovery workflows for enterprise storage systems**.
+Recovery Adapter is a **Golang and gRPC-based command line interface (CLI) tool designed to automate disaster recovery workflows for enterprise storage systems**.
 
 The project was developed during **Storage Creative Days 2023 at Hewlett Packard Enterprise**, where it was recognized as a **Top 5 innovation among all submitted projects**.
 
